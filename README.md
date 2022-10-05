@@ -1,2 +1,2 @@
 # trees-website
-Learn all about trees on this website
+Learn all about trees on this website.
